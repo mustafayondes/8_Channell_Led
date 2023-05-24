@@ -1,3 +1,2 @@
 
 *.c linguistic-detectable = true
-*.assembly linguistic-detectable = false
